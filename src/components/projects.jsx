@@ -17,28 +17,19 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-										<h3><a href="work.html">Work 01</a></h3>
-										<span>Animation</span>
+										<h3><a href="work.html">So Pan</a></h3>
+										<span><a href="https://so-pan.herokuapp.com/">https://so-pan.herokuapp.com/</a></span>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+					
+							<div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="work.html">Weather App</a></h3>
+											<span><a href="https://hollyisaredhead.github.io/weatherapp/">https://hollyisaredhead.github.io/weatherapp/</a></span>
 										</div>
 									</div>
 								</div>
@@ -47,13 +38,22 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
+											<h3><a href="work.html">Weekly Meal Planner</a></h3>
+											<span><a href ="https://hollyisaredhead.github.io/Weekly-meal-planner/" >https://hollyisaredhead.github.io/Weekly-meal-planner/</a></span>
 										</div>
 									</div>
 								</div>
 							</div>
-							
+							<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="work.html">Employee Directory</a></h3>
+											<span><a href="https://hollyisaredhead.github.io/employeedir/">https://hollyisaredhead.github.io/employeedir/</a></span>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 						{/* <div className="row">
 							<div className="col-md-12 animate-box">
