@@ -19,6 +19,7 @@ export default class Projects extends Component {
 										<div className="con">
 										<h3><a href="work.html">So Pan</a></h3>
 										<span><a href="https://so-pan.herokuapp.com/">https://so-pan.herokuapp.com/</a></span>
+										<span><a href="https://github.com/hollyisaredhead/sopan">https://github.com/hollyisaredhead/sopan</a></span>
 										</div>
 									</div>
 								</div>
@@ -29,7 +30,8 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Weather App</a></h3>
-											<span><a href="https://hollyisaredhead.github.io/weatherapp/">https://hollyisaredhead.github.io/weatherapp/</a></span>
+										<span><a href="https://hollyisaredhead.github.io/weatherapp/">https://hollyisaredhead.github.io/weatherapp/</a></span>
+										<span><a href="https://github.com/hollyisaredhead/weatherapp">https://github.com/hollyisaredhead/weatherapp</a></span>
 										</div>
 									</div>
 								</div>
@@ -40,7 +42,9 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3><a href="work.html">Weekly Meal Planner</a></h3>
 											<span><a href ="https://hollyisaredhead.github.io/Weekly-meal-planner/" >https://hollyisaredhead.github.io/Weekly-meal-planner/</a></span>
-										</div>
+											<span><a href ="https://github.com/hollyisaredhead/Weekly-meal-planner" >https://github.com/hollyisaredhead/Weekly-meal-planner</a></span>
+	
+									</div>
 									</div>
 								</div>
 							</div>
@@ -50,7 +54,9 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3><a href="work.html">Employee Directory</a></h3>
 											<span><a href="https://hollyisaredhead.github.io/employeedir/">https://hollyisaredhead.github.io/employeedir/</a></span>
-										</div>
+											<span><a href="https://github.com/hollyisaredhead/employeeDirectory">https://github.com/hollyisaredhead/employeeDirectory/</a></span>
+
+									</div>
 									</div>
 								</div>
 							</div>
